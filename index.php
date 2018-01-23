@@ -12,7 +12,7 @@
     require("header.php") ?>
     <div class="container-fluid">
       <div class="row">
-        <p>Welcome to Shop Control</p>
+        <p>Welcome to Shop Management System!</p>
       </div>
     </div>
   </body>
